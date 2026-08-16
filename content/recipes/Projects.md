@@ -1,2 +1,2 @@
 
-I like pokemon Go, everyday
+I like pokemon Go, everyday, Lets go!
