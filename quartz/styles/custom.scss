@@ -2,28 +2,15 @@
 
 // put your custom CSS here!
 input[type="checkbox"] {
-  appearance: none;
-  -webkit-appearance: none;
-  width: 1.2rem;
-  height: 1.2rem;
-  border: 2px solid var(--gray);
-  border-radius: 4px;
-  background-color: var(--light);
-  display: inline-grid;
-  place-content: center;
+  appearance: auto;
+  -webkit-appearance: auto;
+  accent-color: var(--secondary);
+  width: 1.1rem;
+  height: 1.1rem;
   cursor: pointer;
   vertical-align: middle;
   margin-right: 0.5rem;
-
-  &::before {
-    content: "";
-    width: 0.65rem;
-    height: 0.65rem;
-    transform: scale(0);
-    transition: 120ms transform ease-in-out;
-    box-shadow: inset 1rem 1rem var(--secondary);
-    clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
-  }
+}
 
   &:checked::before {
     transform: scale(1);
