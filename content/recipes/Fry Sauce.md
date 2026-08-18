@@ -1,12 +1,12 @@
 ---
-title: Fry Sauce
+title: fry sauce
 description: A very easy 3-ingredient condiment for sandwiches and fries
 tags:
   - recipe
   - condiment
 date: 2026-08-16
 ---
-# Fry Sauce
+# fry sauce
 
 ![Dish Image](image-link-here.jpg)
 
