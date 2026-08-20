@@ -1,12 +1,13 @@
 ---
-title: "Recipe Name Here"
-description: "A short description or summary of the dish."
+title: moka pot coffee
+description: a budget espresso, the sans way
 tags:
-  - recipe
-  - dinner
+  - "#drink"
+  - "#coffee"
+  - "#mokapot"
 date: 2026-08-16
 ---
-# Recipe Name
+# moka pot coffee
 
 ![Dish Image](image-link-here.jpg)
 
